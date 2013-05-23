@@ -1,0 +1,25 @@
+<div class="component latest-news">
+						<h2 class="title">Latest News</h2>
+							
+								<!--[if IE 5]> Vignette StoryServer 5.0 Mon Jun 11 16:08:23 2012 <![endif]-->
+  <ul class="list">
+<li><a href="http://www.foxnews.com/world/2012/06/11/57-earthquake-hits-afghanistan-many-feared-dead/?test=latestnews"><b>Up to 100 feared dead after Afghan quake</b></a></li>
+<li><a href="http://www.foxnews.com/health/2012/06/11/girl-submerged-for-40-minutes-in-cedar-lake/?test=latestnews">Girl submerged for 40 minutes in Minnesota lake</a></li>
+<li><a href="http://www.foxnews.com/scitech/2012/06/11/facebook-likes-ad-bucks-from-chinese-counterfeiters/?test=latestnews">Are Facebook ads fueling sales of knockoffs? <img src="/i/12x12-fn.gif"></a></li>
+<li><a href="http://www.foxnews.com/us/2012/06/11/firefighters-battle-out-control-blazes-in-colorado-and-new-mexico/?test=latestnews">Firefighters battle out-of-control blazes in Colo., NM</a><br>- <strong class="em">UREPORT: </strong> <a href="http://ureport.foxnews.com/assignment?groupId=9841&amp;type=1,2">Send us your wildfire photos</a></li>
+<li><a href="http://www.foxnews.com/us/2012/06/11/firearm-friendly-town-in-idaho-lure-gun-makers/?test=latestnews">Firearm-friendly towns in Idaho lure gun makers</a></li>
+<li><a href="http://www.foxnews.com/us/2012/06/11/auburn-community-in-mourning-manhunt-continues/?test=latestnews">Person of interest arrested in Auburn shooting</a></li>
+<li><a href="http://www.foxnews.com/us/2012/06/11/tanker-truck-train-collision-near-everett-air-field-causes-fuel-spill/?test=latestnews">Fuel spill after tanker truck, train collide in Wash.</a></li>
+<li><a href="http://radio.foxnews.com/toddstarnes/top-stories/nyc-educators-back-ban-on-patriotic-song.html?test=latestnews"><b>NYC educators back ban on patriotic song</b></a></li>
+</ul>
+							<ul class="list last"><li><a href="http://www.foxnews.com/politics/2012/06/11/pentagon-negotiators-leave-pakistan-after-scant-progress-on-closed-border/?test=latestnews"><b>Pentagon negotiators leave Pakistan after scant progress on closed border crossings</b></a></li>
+<li><a href="http://www.foxnews.com/world/2012/06/11/egyptian-officials-say-mubarak-health-deteriorates-further-defibrillator-used/?test=latestnews">Defib reportedly needed to revive ailing Mubarak</a></li>
+<li><a href="http://www.foxnews.com/us/2012/06/10/woman-accused-burning-roommate-alive/?test=latestnews">Alaska woman accused of burning roommate alive</a></li>
+<li><a href="http://www.foxnews.com/us/2012/06/11/kkk-group-seeks-to-adopt-georgia-highway-for-litter-control/?test=latestnews">KKK group seeks to adopt highway for cleanup <img src="/i/12x12-fn.gif"></a></li>
+<li><a href="http://www.foxnews.com/us/2012/06/11/coast-guard-unmanned-navy-aircraft-crashes-in-us/?test=latestnews">Unmanned aircraft crashes in Maryland</a></li>
+<li><a href="http://www.foxnews.com/us/2012/06/10/creflo-dollar-denies-punching-choking-daughter/?test=latestnews">Megachurch pastor denies punching, choking teen</a></li>
+<li><a href="http://www.foxnews.com/us/2012/06/11/family-set-to-buy-little-girl-crushed-by-tombstone-cross/?test=latestnews"><b>Family set to bury girl crushed by tombstone cross</b></a></li>
+<li><a href="http://www.foxnews.com/scitech/2012/06/11/flame-and-stuxnet-teams-worked-together-researchers-report/?test=latestnews">Flame and Stuxnet virus teams 'worked together'</a></li>
+ </ul>
+
+							 </div>
